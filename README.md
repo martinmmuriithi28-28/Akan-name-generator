@@ -16,7 +16,7 @@ Follow these steps to run the project on your computer:
 1. Clone the repository.
 2. Open the project folder.
 3. Open the project using Visual Studio Code.
-4. .Open the 'index.html' file in your preferred web browser.
+4. Open the 'index.html' file in your preferred web browser.
 
 
 ### Behaviour-Driven Development(BDD)
