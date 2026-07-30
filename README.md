@@ -42,6 +42,10 @@ For questions, suggestions or collaboration opportunities ;
 Email:martinmmuriithi28@gmail.com
 Github:https://github.com/martinmmuriithi28-28/Akan-name-generator.git
 
+### Live site
+
+https://martinmmuriithi28-28.github.io/Akan-name-generator/
+
 ### License
 This project is licensed under MIT License.
 
